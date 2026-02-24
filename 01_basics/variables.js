@@ -3,7 +3,6 @@ const accountId=123;
 var accountEmail="piyush@gmail.com";
 let accountPassword=12344;
 accountHolder="Piyush";
-
 console.table([accountId,accountEmail,accountPassword,accountHolder]);
 
 
